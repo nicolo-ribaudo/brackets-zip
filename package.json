@@ -1,0 +1,50 @@
+{
+    "name": "nicolo-ribaudo.brackets-zip",
+    "version": "0.1.0",
+    "title": "Brackets Zip",
+    "description": "Support for Zip archives.",
+    "engines": {
+        "brackets": ">=1.2"
+    },
+    "homepage": "https://github.com/nicolo-ribaudo/brackets-zip",
+    "author": {
+        "name": "Nicolò Ribaudo",
+        "url": "https://github.com/nicolo-ribaudo",
+        "email": "nicolo.ribaudo@gmail.com"
+    },
+    "license": "MIT",
+    "keywords": [
+        "zip",
+        "archive"
+    ],
+    "i18n": [
+        "en",
+        "it"
+    ],
+    "package-i18n": {
+        "it": {
+            "description": "Supporto per gli archivi Zip.",
+            "keywords": [
+                "zip",
+                "archivio"
+            ]
+        }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nicolo-ribaudo/brackets-zip.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nicolo-ribaudo/brackets-zip/issues"
+    },
+    "scripts": {
+        "install": "cd node && npm install"
+    },
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-cli": "^0.1.13",
+        "grunt-contrib-compress": "^0.13.0",
+        "grunt-contrib-jshint": "^0.11.0",
+        "load-grunt-tasks": "^3.1.0"
+    }
+}

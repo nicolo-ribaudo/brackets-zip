@@ -1,0 +1,13 @@
+{
+    "path": {
+        "**/node_modules/**/*.js": {
+            "linting.enabled": false
+        }
+    },
+    "language": {
+        "javascript": {
+            "linting.prefer": [ "JSHint" ],
+            "linting.usePreferredOnly": true
+        }
+    }
+}
