@@ -18,6 +18,7 @@ You can contribute in one of this three ways:
 
 - ### File an issue
   If, using the extension, you find a bug, please [report it](https://github.com/nicolo-ribaudo/brackets-zip)!
+  
 - ### Fix a bug
   To fix a bug, follow these steps:
   1. If an issue about that bug is opened, ask if someone is already working on it.
@@ -25,6 +26,7 @@ You can contribute in one of this three ways:
   3. Code :wink:
   4. The code must pass jshint test.
   5. Submit a pull request and ... it will be merged!
+  
 - ### Translate
   To translate this extension, follow thes steps:
   1. Create a subfolder of the nls folder whose name is the language or locale you want to create a translation for.
