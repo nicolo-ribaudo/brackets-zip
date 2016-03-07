@@ -1,3 +1,7 @@
+# THIS EXTENSION IS NO LONGER MANTAINED
+
+I don't use [Adobe Brackets](https://github.com/adobe/brackets) anymore, so I'm not maintaining this extension. If you would like to maintain it, contact me at nicolo.ribaudo@gmail.com.
+
 # Brackets Zip :floppy_disk:
 
 Compress and uncompress files or folders in [Brackets](http://brackets.io).
